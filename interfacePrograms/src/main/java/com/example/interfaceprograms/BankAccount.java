@@ -12,7 +12,7 @@ public class BankAccount {
 
     }
 
-    public double getBalance() {
-        return balance;
+    public double getMeasure() {
+        return getMeasure();
     }
 }
